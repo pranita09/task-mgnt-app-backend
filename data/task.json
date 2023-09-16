@@ -1,0 +1,167 @@
+[
+  {
+    "name": "Implement User Authentication",
+    "assignee": "John Doe",
+    "summary": "Develop user authentication system with JWT",
+    "startDate": "2023-09-15",
+    "endDate": "2023-09-30",
+    "effortSpent": 40,
+    "priority": "High",
+    "status": "In Progress",
+    "taskType": "Development"
+  },
+  {
+    "name": "Design Landing Page",
+    "assignee": "Jane Smith",
+    "summary": "Create a visually appealing landing page",
+    "startDate": "2023-09-10",
+    "endDate": "2023-09-25",
+    "effortSpent": 30,
+    "priority": "Medium",
+    "status": "Done",
+    "taskType": "Design"
+  },
+  {
+    "name": "Database Schema Optimization",
+    "assignee": "Alice Johnson",
+    "summary": "Optimize database schema for improved performance",
+    "startDate": "2023-09-20",
+    "endDate": "2023-10-10",
+    "effortSpent": 25,
+    "priority": "High",
+    "status": "Ready",
+    "taskType": "Database"
+  },
+  {
+    "name": "Bug Fixing",
+    "assignee": "Bob Brown",
+    "summary": "Fix critical bugs reported by users",
+    "startDate": "2023-09-18",
+    "endDate": "2023-09-30",
+    "effortSpent": 20,
+    "priority": "High",
+    "status": "Testing",
+    "taskType": "QA"
+  },
+  {
+    "name": "Feature Enhancement",
+    "assignee": "Eva Wilson",
+    "summary": "Add new features to the application",
+    "startDate": "2023-09-25",
+    "endDate": "2023-10-15",
+    "effortSpent": 35,
+    "priority": "Medium",
+    "status": "In Progress",
+    "taskType": "Development"
+  },
+  {
+    "name": "Content Writing",
+    "assignee": "David Lee",
+    "summary": "Create engaging content for marketing campaign",
+    "startDate": "2023-09-10",
+    "endDate": "2023-09-28",
+    "effortSpent": 28,
+    "priority": "Medium",
+    "status": "Done",
+    "taskType": "Content"
+  },
+  {
+    "name": "Server Maintenance",
+    "assignee": "Grace Taylor",
+    "summary": "Perform routine maintenance on server infrastructure",
+    "startDate": "2023-09-22",
+    "endDate": "2023-09-30",
+    "effortSpent": 15,
+    "priority": "Low",
+    "status": "Done",
+    "taskType": "Operations"
+  },
+  {
+    "name": "Mobile App Testing",
+    "assignee": "Michael White",
+    "summary": "Test the mobile app on multiple devices",
+    "startDate": "2023-09-28",
+    "endDate": "2023-10-05",
+    "effortSpent": 18,
+    "priority": "Medium",
+    "status": "In Progress",
+    "taskType": "QA"
+  },
+  {
+    "name": "SEO Analysis",
+    "assignee": "Sophia Clark",
+    "summary": "Conduct SEO analysis for website optimization",
+    "startDate": "2023-09-18",
+    "endDate": "2023-09-30",
+    "effortSpent": 22,
+    "priority": "Medium",
+    "status": "Testing",
+    "taskType": "Marketing"
+  },
+  {
+    "name": "Documentation Update",
+    "assignee": "Oliver Davis",
+    "summary": "Update product documentation with new features",
+    "startDate": "2023-09-22",
+    "endDate": "2023-10-05",
+    "effortSpent": 24,
+    "priority": "Medium",
+    "status": "Ready",
+    "taskType": "Documentation"
+  },
+  {
+    "name": "Frontend Refactoring",
+    "assignee": "Emma Brown",
+    "summary": "Refactor frontend code for improved performance",
+    "startDate": "2023-09-15",
+    "endDate": "2023-09-30",
+    "effortSpent": 35,
+    "priority": "High",
+    "status": "In Progress",
+    "taskType": "Development"
+  },
+  {
+    "name": "Security Audit",
+    "assignee": "Liam Johnson",
+    "summary": "Conduct security audit to identify vulnerabilities",
+    "startDate": "2023-09-25",
+    "endDate": "2023-10-10",
+    "effortSpent": 30,
+    "priority": "High",
+    "status": "Testing",
+    "taskType": "Security"
+  },
+  {
+    "name": "Product Training",
+    "assignee": "Ava Wilson",
+    "summary": "Provide product training to new employees",
+    "startDate": "2023-09-18",
+    "endDate": "2023-09-30",
+    "effortSpent": 18,
+    "priority": "Low",
+    "status": "Done",
+    "taskType": "Training"
+  },
+  {
+    "name": "Data Analysis",
+    "assignee": "Noah Martinez",
+    "summary": "Analyze user data for insights and trends",
+    "startDate": "2023-09-22",
+    "endDate": "2023-10-05",
+    "effortSpent": 27,
+    "priority": "Medium",
+    "status": "Ready",
+    "taskType": "Analytics"
+  },
+  {
+    "name": "API Integration",
+    "assignee": "Isabella Taylor",
+    "summary": "Integrate third-party APIs for new features",
+    "startDate": "2023-09-15",
+    "endDate": "2023-09-30",
+    "effortSpent": 25,
+    "priority": "Medium",
+    "status": "In Progress",
+    "taskType": "Development"
+  }
+]
