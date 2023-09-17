@@ -10,9 +10,7 @@ const taskRouter = require("./routes/task.routes");
 const app = express();
 
 app.use(
-  cors({
-    origin: "http://example.com",
-  })
+  cors()
 );
 
 app.use(helmet());
